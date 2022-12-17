@@ -1,7 +1,5 @@
 # Insta-UI
 My Instagram Profile UI created using Jetpack Compose.
 
-
-Overview :
-https://user-images.githubusercontent.com/102376045/208229232-ae7a6fb6-ccce-4d5d-b17b-a0ca46323a3e.mp4
+https://user-images.githubusercontent.com/102376045/208229427-0cb0f82c-8b31-4274-a782-f6d96d41ee9d.mp4
 
